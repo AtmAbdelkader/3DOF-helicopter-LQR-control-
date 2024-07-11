@@ -25,7 +25,6 @@ you can find all codes of MATLAB/Simulink in the official web_site of QUANSER : 
 
 
 ---> closed_loop test:
-First we test this system on open loop and we find that this system is unstable
 
 
 
