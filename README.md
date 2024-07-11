@@ -3,7 +3,7 @@
 
 The scope of this simple project is the development of a mathematical model and control system for the three-degree-of-freedom (3-DOF) helicopter. This system provides a good simplification of a real-world tandem helicopter for evaluating the performance of various automated control principles. A mathematical model of the system has been developed. This mathematical model is linearized and the LQR controller is developed. Then they are implemented on the model and evaluated for their performance.
 
-## SYSTEM_DESCRIPTION AND ARUINO(MEGA) WIRING
+## SYSTEM_DESCRIPTION AND ARDUINO(MEGA) WIRING
 
 1/ system description:
 
