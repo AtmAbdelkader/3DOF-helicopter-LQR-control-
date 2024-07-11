@@ -384,14 +384,14 @@ ISR(TIMER2_OVF_vect) {
     velocity1 = (angle1_post-angle1_previous) * 50;
     velocity2 = (angle2_post-angle2_previous) * 50;
     
-//    Error_elevation = angle0-desired_angle0;
-//    Error_roll = angle1-desired_angle1;
-//    Error_travel = angle2-desired_angle2;
-//    Error_elevationdot = velocity0;
-//    Error_rolldot = velocity1;
-//    Error_traveldot = velocity2;
-//    Error_integral1 = Error_integral1+((k17* Error_elevation)+(k18*Error_travel));
-//    Error_integral2 = Error_integral2+((k27* Error_elevation)+(k28*E
+      Error_elevation = angle0-desired_angle0;
+      Error_roll = angle1-desired_angle1;
+      Error_travel = angle2-desired_angle2;
+      Error_elevationdot = velocity0;
+      Error_rolldot = velocity1;
+      Error_traveldot = velocity2;
+      Error_integral1 = Error_integral1+((k17* Error_elevation)+(k18*Error_travel));
+      Error_integral2 = Error_integral2+((k27* Error_elevation)+(k28*E
 
     t = 0;
   }
