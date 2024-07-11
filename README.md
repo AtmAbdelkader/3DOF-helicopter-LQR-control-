@@ -8,13 +8,13 @@ The scope of this simple project is the development of a mathematical model and 
 1/ system description:
 
 <p align="center">
-    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control/blob/main/system_description.png">
+    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control-/blob/main/system_description.png">
 </p>
 
 2/ Arduino wiring:
 
 <p align="center">
-    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control/blob/main/arduino_wiring.png">
+    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control-/blob/main/arduino_wiring.png">
 </p>
 
 ### MATLAB TEST
@@ -27,17 +27,17 @@ First we test this system on open loop and we find that this system is unstable
 --> test_pitch:
 
 <p align="center">
-    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control/blob/main/test_pitch.png">
+    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control-/blob/main/test_pitch.png">
 </p>
 
 --> test_roll:
 
 <p align="center">
-    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control/blob/main/test_roll.png">
+    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control-/blob/main/test_roll.png">
 =</p>
 
 --> test_yaw:
 
 <p align="center">
-    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control/blob/main/test_yaw.png">
+    <img width=80% src="https://github.com/AtmAbdelkader/3DOF-helicopter-LQR-control-/blob/main/test_yaw.png">
 </p>
