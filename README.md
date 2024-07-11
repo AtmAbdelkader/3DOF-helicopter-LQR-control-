@@ -19,7 +19,6 @@ The scope of this simple project is the development of a mathematical model and 
 </p>
 
 
-
 ### MATLAB TEST
 you can find all codes of MATLAB/Simulink in the official web_site of QUANSER : "https://www.quanser.com/"
 
